@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//a[@data-di-id=\"di-id-91640aab-3b1bfa1a\"]/div/img"
+}

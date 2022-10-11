@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@id=\"links-menu1-content\"]//div[@data-autoid=\"nav:sideNavLinksMenuDraw\"]"
+}
